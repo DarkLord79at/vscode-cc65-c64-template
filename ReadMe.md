@@ -8,4 +8,4 @@ See `.vscode/tasks.json` for setting your OS' path to the VICE binary.
 
 Source code should go into the `src` directory for structuring purposes.
 
-(C) 2022 by DarkLord79at ([prof79](https://github.com/prof79)) of [VCC](https://logiker.com/vcc).
+(C) 2022 by DarkLord79at ([prof79](https://github.com/prof79)) of [VCC](https://logiker.com/vcc). The template itself is "unlicensed" 🙂.
