@@ -22,10 +22,10 @@
 				"command": "x64sc"
 			},
 			"osx": {
-				"command": "/Applications/vice-x86-64-3.6.1-gtk+/bin/x64sc"
+				"command": "/Applications/vice-x86-64-3.7.1-gtk+/bin/x64sc"
 			},
 			"windows": {
-				"command": "C:\\Program Files (x86)\\Cloanto\\C64 Forever\\VICE\\x64.exe"
+				"command": "D:\\Program Files (x64)\\Emulation\\GTK3VICE-3.7-win64\\bin\\x64sc.exe"
 			},
 			"args": [
 				"build/${fileBasenameNoExtension}.prg"
