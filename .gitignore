@@ -5,3 +5,6 @@
 **/*.prg
 **/*.d64
 **/*.t64
+
+# VS Code Files
+.vscode/settings.json
