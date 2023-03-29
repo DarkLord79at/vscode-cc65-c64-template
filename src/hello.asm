@@ -4,13 +4,13 @@
 ; Constants
     zero = $00
     cr = $0d
-    clr = 147
+    clr = 147               ; $93
     black = $00
     pink = $04
     bgcolor = $d020
     fgcolor = $d021
-    poscolor = 646
-    cursorcolor = 647
+    poscolor = 646          ; $286
+    cursorcolor = 647       ; $287
 
 ; Kernal Routines
     chrout = $ffd2
